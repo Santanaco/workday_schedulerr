@@ -14,7 +14,7 @@ Anyone needing a 9-5 planner can use this app to jot down important tasks to do 
 
 ![alt text](./images/Screenshot%202023-06-09%20at%209.14.33%20PM.png)
 
-Link to page: https://alc0ve.github.io/daily-planner/
+Link to page: https://santanaco.github.io/workday_schedulerr/
 
 GitHub: https://github.com/Santanaco/workday_schedulerr
 
